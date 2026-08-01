@@ -145,13 +145,6 @@ Excel-Business-Intelligence-Dashboard/
 ├── P&L Statement by Fiscal Year.pdf
 ├── P&L Statement by Markets.pdf
 ├── P&L Statement by Months.pdf
-│
-├── Screenshots/
-│   ├── Customer Dashboard.png
-│   ├── Market Dashboard.png
-│   ├── Fiscal Year Dashboard.png
-│   ├── Monthly Dashboard.png
-│
 └── README.md
 ```
 
