@@ -164,7 +164,9 @@ Excel-Business-Intelligence-Dashboard/
 > *(Add Screenshot Here)*
 
 ```
-Screenshots/Customer Dashboard.png
+<img width="562" height="710" alt="image" src="https://github.com/user-attachments/assets/8e7cf0dd-6840-4893-831c-1376fdefad89" />
+
+
 ```
 
 ---
@@ -174,7 +176,8 @@ Screenshots/Customer Dashboard.png
 > *(Add Screenshot Here)*
 
 ```
-Screenshots/Market Dashboard.png
+<img width="607" height="651" alt="image" src="https://github.com/user-attachments/assets/aaf9e001-abe4-4b94-84d6-9d557ff035c3" />
+
 ```
 
 ---
@@ -184,7 +187,8 @@ Screenshots/Market Dashboard.png
 > *(Add Screenshot Here)*
 
 ```
-Screenshots/Fiscal Year Dashboard.png
+<img width="925" height="507" alt="image" src="https://github.com/user-attachments/assets/838b51b8-ff9c-4705-b67c-96caa2b260ac" />
+
 ```
 
 ---
@@ -194,7 +198,8 @@ Screenshots/Fiscal Year Dashboard.png
 > *(Add Screenshot Here)*
 
 ```
-Screenshots/Monthly Dashboard.png
+<img width="677" height="818" alt="image" src="https://github.com/user-attachments/assets/8c2fc942-3d54-44bd-b0ee-dd2991bd9ff5" />
+
 ```
 
 ---
@@ -260,7 +265,7 @@ The project uses the **AtliQ Hardwares Sales Dataset**, a sample business datase
 https://www.linkedin.com/in/gaurav-kadule/
 
 📧 Email:
-your-email@gmail.com
+gauravkadule447@gmail.com
 
 ---
 
