@@ -157,52 +157,6 @@ Excel-Business-Intelligence-Dashboard/
 
 ---
 
-# 📷 Dashboard Preview
-
-## Customer Performance Dashboard
-
-> *(Add Screenshot Here)*
-
-```
-<img width="562" height="710" alt="image" src="https://github.com/user-attachments/assets/8e7cf0dd-6840-4893-831c-1376fdefad89" />
-
-
-```
-
----
-
-## Market Performance Dashboard
-
-> *(Add Screenshot Here)*
-
-```
-<img width="607" height="651" alt="image" src="https://github.com/user-attachments/assets/aaf9e001-abe4-4b94-84d6-9d557ff035c3" />
-
-```
-
----
-
-## P&L Dashboard
-
-> *(Add Screenshot Here)*
-
-```
-<img width="925" height="507" alt="image" src="https://github.com/user-attachments/assets/838b51b8-ff9c-4705-b67c-96caa2b260ac" />
-
-```
-
----
-
-## Monthly Dashboard
-
-> *(Add Screenshot Here)*
-
-```
-<img width="677" height="818" alt="image" src="https://github.com/user-attachments/assets/8c2fc942-3d54-44bd-b0ee-dd2991bd9ff5" />
-
-```
-
----
 
 # 💡 Key Business Insights
 
